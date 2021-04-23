@@ -1,0 +1,7 @@
+{
+  "name": "securityscreen",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
